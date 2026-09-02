@@ -36,7 +36,62 @@ I am passionate about building modern, responsive and scalable web applications.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman327&layout=compact&theme=tokyonight)
 
 ---
+<div align="center">
 
+# ABDUL REHMAN
+
+### Full-Stack Web Developer | React Developer
+
+<br/>
+
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/▲_PORTFOLIO-111111?style=for-the-badge" />
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
+
+---
+
+# 👨‍💻 Profile Summary
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+## Software Engineer
+
+I'm **Abdul Rehman**, a passionate developer focused on building modern, responsive, and scalable web applications.
+
+My journey currently focuses on **Full-Stack Web Development**, with experience building responsive user interfaces and real-world projects using modern technologies.
+
+```text
+role: Full-Stack Web Developer
+
+focus:
+   - React Development
+   - Frontend Engineering
+   - REST APIs & Backend Development
+   - Database Integration
+   - Production UI & Performance
+
+currently:
+   - Learning Node.js & Express.js
+   - Learning PostgreSQL & Databases
+   - Building Full-Stack Projects
+
+education:
+   degree: BS Information Technology
+   university: University Student
+```
 ## 🚀 Featured Project
 
 ### 🛒 E-Commerce Web Application
