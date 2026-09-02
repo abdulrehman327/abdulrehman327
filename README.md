@@ -1,64 +1,42 @@
-# Hi 👋, I'm Abdul Rehman
+<!-- ===================== HEADER ===================== -->
 
-### Full Stack Web Developer | React Developer
-
-I am passionate about building modern, responsive and scalable web applications.
-
-- 🌱 Currently learning **Node.js, Express.js & Databases**
-- 💻 Experienced with **React.js**
-- 🛒 Built a complete **E-Commerce Frontend**
-- 🔭 Interested in **Full Stack Web Development**
-- 📫 Connect with me on LinkedIn
-
----
-
-## 🚀 Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrehman327&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman327&layout=compact&theme=tokyonight)
-
----
 <div align="center">
 
-# ABDUL REHMAN
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ABDUL%20REHMAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=55&descSize=20"/>
 
-### Full-Stack Web Developer | React Developer
+</div>
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Rehman;Full+Stack+Web+Developer+%F0%9F%9A%80;React+Developer+%E2%9A%9B%EF%B8%8F;Building+Modern+Web+Applications+%F0%9F%92%BB;Always+Learning+%E2%80%A2+Always+Building+%E2%80%A2+Always+Improving"/>
+
+</div>
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/▲_PORTFOLIO-111111?style=for-the-badge" />
+<!-- ===================== SOCIAL BUTTONS ===================== -->
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/-chaudhry-abdulrehman">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin" />
+<a href="https://github.com/abdulrehman327">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail" />
+<a href="https://e-commerce-frontend-codeflex3.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
+
+<!-- ===================== PROFILE SUMMARY ===================== -->
 
 # 👨‍💻 Profile Summary
 
@@ -67,44 +45,33 @@ I am passionate about building modern, responsive and scalable web applications.
 
 <td width="65%" valign="top">
 
-## Software Engineer
+## 🚀 Full Stack Web Developer
 
-I'm **Abdul Rehman**, a passionate developer focused on building modern, responsive, and scalable web applications.
+I'm **Abdul Rehman**, a passionate developer focused on building modern, responsive and scalable web applications.
 
-My journey currently focuses on **Full-Stack Web Development**, with experience building responsive user interfaces and real-world projects using modern technologies.
+I enjoy turning ideas into real-world digital products and continuously improving my skills in frontend and backend development.
+
+My main focus is building clean user interfaces, working with APIs, databases and creating complete full-stack applications.
+
+<br/>
 
 ```text
-role: Full-Stack Web Developer
+💻 role:
+   Full Stack Web Developer
 
-focus:
-   - React Development
-   - Frontend Engineering
-   - REST APIs & Backend Development
+🚀 focus:
+   - Frontend Development
+   - React.js Applications
+   - REST APIs
+   - Backend Development
    - Database Integration
-   - Production UI & Performance
+   - Responsive UI
 
-currently:
-   - Learning Node.js & Express.js
-   - Learning PostgreSQL & Databases
-   - Building Full-Stack Projects
+🌱 currently learning:
+   - Node.js
+   - Express.js
+   - PostgreSQL
+   - MongoDB
 
-education:
-   degree: BS Information Technology
-   university: University Student
-```
-## 🚀 Featured Project
-
-### 🛒 E-Commerce Web Application
-
-A modern responsive E-Commerce frontend built using React.js.
-
-🔗 Live Demo: https://e-commerce-frontend-codeflex3.vercel.app/
-
-⭐ Features:
-
-- Responsive Design
-- Product Categories
-- Product Details
-- Shopping Cart
-- Authentication
-- Modern UI
+🎯 goal:
+   Become a Professional Full Stack Software Engineer
