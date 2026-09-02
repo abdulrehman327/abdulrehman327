@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=ABDUL%20REHMAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=200&section=header&text=ABDUL%20REHMAN&fontSize=55&fontColor=ffffff"/>
 
 </div>
 
